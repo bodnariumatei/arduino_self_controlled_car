@@ -7,11 +7,11 @@ This Arduino project involves building a remote control smart car that combines 
 
 Members:
 - <b>Bodnariu Nicolae-Matei</b> - Grupa 231
-     * Hardware - Proposed Grade <b>10</b>
+     * Hardware & Arduino Code
 - <b>Dămătar Eusebiu-Anton</b> - Grupa 232
-     * Mobile App - Proposed Grade <b>10</b>
+     * Mobile App
 - <b>Tomuța Răzvan Claudiu</b> - Grupa 237
-     * Arduino Code and Team Organization - Proposed Grade <b>10</b>
+     * Arduino Code and Team Organization
 
  
 Components:
